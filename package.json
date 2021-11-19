@@ -1,0 +1,23 @@
+{
+  "name": "libraryproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ndb run server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsionRaj/libraryProject.git"
+  },
+  "author": "Raj Kumar Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsionRaj/libraryProject/issues"
+  },
+  "homepage": "https://github.com/devsionRaj/libraryProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
